@@ -1,0 +1,81 @@
+
+table.tabela {
+width: 800px;
+height: 600px;
+
+}
+
+td.logo {
+background-color: black;
+height: 100px;
+}
+
+h3 , td.stopka p {
+color: white;
+text-align: center;}
+
+td.okno {
+width: 650px;
+background-image: url(pattern.jpg);
+}
+
+td.button {
+background-image: url(pattern.jpg);
+}
+
+
+.link {
+   background-image: url(link1.jpg);
+   height: 50px;
+   width: 150px;
+}
+
+.link:hover {
+   background-image: url(przejdz.jpg);
+}
+
+
+div {
+overflow: auto;
+height: 470px;
+}
+
+
+table.tabela2 {
+width: 150px;
+}
+
+td.button {
+height: 80px;
+}
+
+td.lista {
+height: 390px;
+}
+
+td.lista a:hover {
+background-image: url(przejdz.jpg) bottom center no-repeat;}
+
+td.lista a {
+
+background-image: url(link1.jpg) top center no-repeat;
+
+}
+
+a:hover {
+
+background-image: url(przejdz.jpg) bottom center no-repeat;
+
+}
+
+td.lista a:visited {
+border-bottom-style: dashed;
+}
+
+td.lista a {
+text-decoration: none}
+
+td.stopka {
+background-color: black;
+height: 30;
+}
